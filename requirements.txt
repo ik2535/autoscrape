@@ -5,10 +5,11 @@ beautifulsoup4==4.12.2
 pandas==2.1.0
 
 # Data lake dependencies  
-delta-spark==2.4.0
 pyarrow==13.0.0
-pyspark==3.4.1
+
+# Analytics dependencies
+plotly==5.15.0
+streamlit==1.25.0
 
 # Additional data processing
 numpy==1.24.3
-sqlalchemy==2.0.20
